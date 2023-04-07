@@ -1,0 +1,1 @@
+LOCAL_PATH = '/home/santi/personalProjects/deeplearning_udemy/reconocimiento_lunares/'
